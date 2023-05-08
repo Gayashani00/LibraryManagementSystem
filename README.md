@@ -2,7 +2,7 @@
 
 OOP II Final Assignment
 
--Languages- Java
+- Languages: Java
 
 ![Image 01](./IMG/Home.png)
 
